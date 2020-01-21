@@ -14,3 +14,7 @@ I was born in Moscow Idaho on _August 3rd, 2000._ Since then, I have lived in **
 4. I like to ski
 5. I like to run
 6. I like creating content
+
+### Future
+
+I plan to finish school at Boise State University and move on to get my first cs job in industry. I have not yet determined what field that I want to go into, but I trust that the basic skills and knowledge that I am acquiring here at boise state will get me into more interviews at potential career jobs.
